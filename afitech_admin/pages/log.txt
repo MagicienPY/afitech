@@ -1,0 +1,94 @@
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Nombre de résultats : 1
+Début du script
+Utilisateur connecté, ID : 2
+Début du script
+Utilisateur connecté, ID : 2
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Erreur : SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+Début du script
+Utilisateur connecté, ID : 2
+Début du script
+Utilisateur connecté, ID : 2
+Début du script
+Utilisateur connecté, ID : 2
